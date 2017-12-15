@@ -2081,9 +2081,9 @@ body {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 50%;
-  height: 90%;
-  background: url(../img/hero-bg.png) no-repeat bottom right/contain;
+  width: 40%;
+  height: 70%;
+  background: url(../img/bruce.jpg) no-repeat bottom right/contain;
   z-index: 2;
 }
 

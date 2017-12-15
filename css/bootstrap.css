@@ -96,6 +96,10 @@ body {
   background-color: #fff;
 }
 
+.important-message {
+   font-weight: bold;
+}
+
 [tabindex="-1"]:focus {
   outline: none !important;
 }
