@@ -96,10 +96,6 @@ body {
   background-color: #fff;
 }
 
-.important-message {
-   font-weight: bold;
-}
-
 [tabindex="-1"]:focus {
   outline: none !important;
 }
@@ -642,8 +638,8 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -5px;
-  margin-left: -5px;
+  margin-right: -15px;
+  margin-left: -15px;
 }
 
 .no-gutters {

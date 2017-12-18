@@ -1,0 +1,33 @@
+setenv TERM xterm
+stty erase < ba
+stty erase < backspace >
+stty erase
+s
+stty eras
+stty erase
+st
+stty -a
+Tra+la
+Tra+la+a%ofT
+test
+scp
+exit
+setenv TERM vt100
+pico .cs
+pico .cshrc
+exit
+ls
+mv in
+mv index.html public_html
+ls
+cd public_html
+ls
+ls
+cd ..
+ls
+mv 3ffd952.jpg public_html
+cd public_html
+ls
+rm index.html
+cd ..
+mv index.html public_html
