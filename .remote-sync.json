@@ -1,0 +1,18 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "mason.gmu.edu",
+  "port": "22",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "bgoldfe2",
+  "password": "MyTh1sR3allySt1nks",
+  "watch": [],
+  "transport": "scp", "target": ""
+}
