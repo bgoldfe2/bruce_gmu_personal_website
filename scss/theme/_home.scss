@@ -294,7 +294,7 @@ body {
 		right: 0;
 		width: 50%;
 		height: 100%;
-		background: url(../img/story-bg.jpg) no-repeat center center/cover;
+		background: url(../img/car-fusion.png) no-repeat center center/cover;
 		z-index: 1;
 		@include media-breakpoint-down(md) {
 			display: none;
@@ -411,11 +411,11 @@ body {
 		opacity:  1;
 		font-weight: 300;
 	}
-	:-ms-input-placeholder { 
+	:-ms-input-placeholder {
 		color:    #fff;
 		font-weight: 300;
 	}
-	::-ms-input-placeholder { 
+	::-ms-input-placeholder {
 		color:    #fff;
 		font-weight: 300;
 	}

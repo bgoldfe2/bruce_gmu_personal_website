@@ -4,7 +4,7 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
@@ -1702,7 +1702,7 @@ body {
     right: 0;
     width: 50%;
     height: 100%;
-    background: url(../img/story-bg.jpg) no-repeat center center/cover;
+    background: url(../img/car-fusion.png) no-repeat center center/cover;
     z-index: 1; }
     @media (max-width: 991px) {
       .story-area:after {
